@@ -19,7 +19,7 @@
     {
       "matches": [
         "https://hackerwars.io/*",
-      ],
+      ]
       "js": [
         "core/libraries/vendor/sjcl/sjcl.min.js",
         "core/libraries/vendor/jSpaghetti/jSpaghetti.min.js",
