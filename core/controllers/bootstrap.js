@@ -10,7 +10,7 @@ var storageContent = controllers.storage.get(function (storageContent) {
     }
     //It checks if the current page is a regular page game
     var regularPageId = document.getElementById("header")
-    var isRegularPage = (regularPageId) && (regularPageId.innerHTML.indexOf('<a href="#">Hacker Experience</a>') >= 0)
+    var isRegularPage = (regularPageId) && (regularPageId.innerHTML.indexOf('<a href="#">Hacker Wars</a>') >= 0)
     controllers.isRegularGamePage = false
     if (isRegularPage) {
         controllers.isRegularGamePage = true
