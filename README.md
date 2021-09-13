@@ -1,4 +1,4 @@
-# BetterHExBot v1.0.1 - May 29 - 2019
+#̶ ̶B̶e̶t̶t̶e̶r̶H̶E̶x̶B̶o̶t̶ ̶v̶1̶.̶0̶.̶1̶ ̶-̶ ̶M̶a̶y̶ ̶2̶9̶ ̶-̶ ̶2̶0̶1̶9̶    Better HW Bot- September 12th 2021
 Suite of scripts to automate some processes on Hacker Experience game website.
 
 If you have no Idea on how to use the Webcrawler, use https://api.logfro.de/hewebcrawlergen/ to generate a script for you :)
